@@ -1,0 +1,15 @@
+{
+  "name": "com.hungnt.database",
+  "version": "1.0.0",
+  "displayName": "com.hungnt.database",
+  "description": "ScriptableObject database service, Google Sheet import (editor), and GGSheet attributes.",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.hungnt.core": "1.0.0"
+  },
+  "author": {
+    "name": "HungNT",
+    "url": "https://github.com/NgTienHungg"
+  },
+  "license": "MIT"
+}
